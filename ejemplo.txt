@@ -1,0 +1,2 @@
+Ejemplo del primer paso del git
+agregareos esta nueva linea de texto para hacer un versionamiento de git.
