@@ -1,0 +1,59 @@
+# Ignorar archivos generados por el sistema operativo
+.DS_Store
+
+# Ignorar archivos de configuración de editor
+.vscode/
+.idea/
+
+# Ignorar carpetas y archivos de dependencias
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de compilación y salida
+dist/
+build/
+
+# Ignorar archivos de logs
+*.log
+*.log.*
+
+# Ignorar archivos de caché
+*.cache
+
+# Ignorar archivos de entornos virtuales
+venv/
+env/
+
+# Ignorar archivos de configuración locales
+*.env
+
+# Ignorar archivos de construcción o compilación
+*.o
+*.pyc
+*.swp
+*.swo
+*.class
+*.jar
+
+# Ignorar archivos de credenciales y claves
+*.key
+*.pem
+
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar archivos de historial de comandos
+.history/
+
+# Ignorar archivos generados por linters
+.eslintcache
+# Ignorar archivos de Microsoft Word
+*.doc
+*.docx
+
+# Ignorar archivos de base de datos SQL y respaldos
+*.sql
+*.bak
+/gestionDePeliculas/nbproject/private/
+/methaporce/nbproject/private/
